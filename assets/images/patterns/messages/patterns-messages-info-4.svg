@@ -1,0 +1,11 @@
+<svg id="patterns-messages-info-4" xmlns="http://www.w3.org/2000/svg" width="837" height="90" viewBox="0 0 837 90">
+  <rect id="Rectangle_255" data-name="Rectangle 255" width="837" height="90" rx="4" fill="#eff7fd"/>
+  <text id="Don_t_have_an_app_Try_out_a_sample_app_using_https:_localhost:5000_as_the_authorized_redirect_URL._You_can_download_and_run_a_sample_at_a_later_step._" data-name="Don’t have an app? Try out a sample app using https://localhost:5000 as the authorized redirect URL. (You can download and 
+run a sample at a later step.)" transform="translate(42 29)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Don’t have an app? Try out a sample app using </tspan><tspan y="0" fill="rgba(0,149,255,0.8)">https://localhost:5000</tspan><tspan y="0" xml:space="preserve"> as the authorized redirect URL. (You can download and </tspan><tspan x="0" y="19.6">run a sample at a later step.)</tspan></text>
+  <text id="Add_now" data-name="Add now" transform="translate(42 74)" fill="#ff7300" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Add now</tspan></text>
+  <g id="Group_1286" data-name="Group 1286">
+    <circle id="Ellipse_382" data-name="Ellipse 382" cx="7" cy="7" r="7" transform="translate(21 18)" fill="#0095ff"/>
+    <circle id="Ellipse_383" data-name="Ellipse 383" cx="1" cy="1" r="1" transform="translate(27 21)" fill="#fff"/>
+    <rect id="Rectangle_891" data-name="Rectangle 891" width="2" height="5.5" rx="0.5" transform="translate(27 24)" fill="#fff"/>
+  </g>
+</svg>

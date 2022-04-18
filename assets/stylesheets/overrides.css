@@ -1,0 +1,27 @@
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+    height: 16px;
+    width: auto;
+}
+
+.md-header__button.md-logo {
+    padding: .2rem .4rem .4rem .4rem;
+}
+
+.md-header__title {
+    margin-left: unset;
+}
+
+.md-typeset .tabbed-set>label {
+    border-bottom: .1rem solid transparent;
+    font-weight: 500;
+    font-size: 14px;;
+}
+
+.md-typeset hr {
+    margin: 0 0 0.64em 0;
+}
+
+.md-typeset h2 {
+    margin: 1.6em 0 .32em 0;
+}

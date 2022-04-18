@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="837" height="116" viewBox="0 0 837 116">
+  <g id="patterns-messages-info-3" transform="translate(-946 330)">
+    <g id="message.list" transform="translate(946 -330)">
+      <rect id="Rectangle_255" data-name="Rectangle 255" width="837" height="116" rx="4" fill="#eff7fd"/>
+      <text id="New_Site_Features" data-name="New Site Features" transform="translate(42 30)" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">New Site Features</tspan></text>
+      <text id="You_can_now_have_cover_images_on_blog_pages_Drafts_will_now_auto-save_while_writing" data-name="You can now have cover images on blog pages
+Drafts will now auto-save while writing" transform="translate(60 62)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">You can now have cover images on blog pages</tspan><tspan x="0" y="24">Drafts will now auto-save while writing</tspan></text>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="3" cy="3" r="3" transform="translate(45 54)" fill="#1b1c1d"/>
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="3" cy="3" r="3" transform="translate(45 78)" fill="#1b1c1d"/>
+      <g id="Group_1287" data-name="Group 1287" transform="translate(0 -1)">
+        <circle id="Ellipse_382" data-name="Ellipse 382" cx="7" cy="7" r="7" transform="translate(21 18)" fill="#0095ff"/>
+        <circle id="Ellipse_383" data-name="Ellipse 383" cx="1" cy="1" r="1" transform="translate(27 21)" fill="#fff"/>
+        <rect id="Rectangle_891" data-name="Rectangle 891" width="2" height="5.5" rx="0.5" transform="translate(27 24)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="patterns-messages-warning-2" xmlns="http://www.w3.org/2000/svg" width="837" height="70" viewBox="0 0 837 70">
+  <rect id="Rectangle_255" data-name="Rectangle 255" width="837" height="70" rx="4" fill="#fff6e7"/>
+  <text id="Changes_in_Service" data-name="Changes in Service" transform="translate(42 31)" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Changes in Service</tspan></text>
+  <text id="We_just_updated_our_privacy_policy_here_to_better_service_our_customers._We_recommend_reviewing_the_changes." data-name="We just updated our privacy policy here to better service our customers. We recommend reviewing the changes." transform="translate(42 52)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">We just updated our privacy policy here to better service our customers. We recommend reviewing the changes.</tspan></text>
+  <g id="Group_1290" data-name="Group 1290" transform="translate(21 18)">
+    <circle id="Ellipse_382" data-name="Ellipse 382" cx="7" cy="7" r="7" fill="orange"/>
+    <circle id="Ellipse_383" data-name="Ellipse 383" cx="1" cy="1" r="1" transform="translate(6 9.5)" fill="#fff"/>
+    <rect id="Rectangle_891" data-name="Rectangle 891" width="2" height="5.5" rx="0.5" transform="translate(6 3)" fill="#fff"/>
+  </g>
+</svg>
